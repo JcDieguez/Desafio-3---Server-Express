@@ -1,0 +1,20 @@
+[
+    {
+        "tittle": "Celular",
+        "price": 550,
+        "thumbnail": "www.coderhouse.com",
+        "id": 1
+    },
+       {
+        "tittle": "Computadora",
+        "price": 1050,
+        "thumbnail": "www.coderhouse.com",
+        "id": 2
+    },
+       {
+        "tittle": "Reloj",
+        "price": 250,
+        "thumbnail": "www.coderhouse.com",
+        "id": 3
+    }
+]
